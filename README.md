@@ -2,6 +2,8 @@
 
 [繁體中文](README.md) · [简体中文](README.zh-CN.md) · [English](README.en.md)
 
+電子書下載（簡體中文）：[PDF](https://github.com/ityongsheng/teacher-dating-guide/releases/download/v1.0.0/teacher-dating-guide-zh-CN.pdf) · [EPUB](https://github.com/ityongsheng/teacher-dating-guide/releases/download/v1.0.0/teacher-dating-guide-zh-CN.epub)
+
 <p align="center">
   <img src="assets/cover.png" alt="教師約會指南" width="360">
 </p>
